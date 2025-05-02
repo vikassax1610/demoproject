@@ -8,13 +8,10 @@ function Contact() {
           Contact us
         </h1>
         <h2 className="text-2xl md:text-4xl tracking-wide font-semibold text-gray-700 leading-snug">
-          Building Legacies Through Vision and Innovation
+          Want to know more Contact us
         </h2>
-  
       </div>
-      <div className="">
-        
-      </div>
+      <div className=""></div>
     </div>
   );
 }
